@@ -1,2 +1,2 @@
-Python_Operadores_Logicos
+Python_Operadores_Aritimetico
 
